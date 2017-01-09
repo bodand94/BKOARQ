@@ -39,10 +39,6 @@ A tárgyaknak be lehet állítani krediteket is amiket a tárgy elvégzéséért
 * Tárgy leadása
 * Kijelentkezés
 
-## Komponensdiagram
-
-![Komponensdiagram](komp.png)
-
 # Implementáció
 
 ## Fejlesztőkörnyezet
